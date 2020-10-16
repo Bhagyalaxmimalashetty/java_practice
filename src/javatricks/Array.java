@@ -3,7 +3,7 @@ package javatricks;
 public class Array {
 	private int[] items;
 	private int count;
-
+	//just a comment to test
 	public Array(int length) {
 		items = new int[length];
 	}
